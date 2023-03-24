@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.heading {
+  text-align: center;
+  margin-top: 100px;
+}
+.simple-form {
+  text-align: center;
+  justify-content: center;
+}
+input {
+  margin: 20px;
+  padding: 10px;
+}
+.button {
+  padding-right: 25px;
+  padding-left: 25px;
+  border-radius: 10px;
+}
