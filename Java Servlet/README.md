@@ -5,8 +5,8 @@
 Requirements -  TOMCAT Server
 
 The above file structure is saved in 
-- C:\xampp\tomcat\webapps\demo\WEB-INF\classes (if your using xampp)
-- C:\tomcat\webapps\demo\WEB-INF\classes 
+- C:\xampp\tomcat\webapps\folder-name\ (if your using xampp)
+- C:\tomcat\webapps\folder-name\
 
 The java file presented in ./WEB-INF/classes/DemoServlet.java is compiled and converted into class file.
 
