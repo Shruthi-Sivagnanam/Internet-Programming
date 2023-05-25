@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    margin: 30px;
+    text-align: center;
+}
+
+.form-space{
+    margin-top: 50px;
+    margin-right: 350px;
+    margin-left: 350px;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    padding: 20px;
+    background-color: aqua;
+    border-radius: 30px;
+    box-shadow: 20px 10px whitesmoke;
+}
+
+input{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
